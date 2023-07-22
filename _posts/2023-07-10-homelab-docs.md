@@ -1,8 +1,8 @@
 ---
 title: Hello World
 date: 2023-07-10 12:00:00 -500
-categories: [homelab,hardware,testing]
-tags: [introduction,homelab,servers] # tag names MUST always be lowercase! 
+categories: [testing]
+tags: [introduction] # tag names MUST always be lowercase! 
 ---
 
 # Welcome to the first post
@@ -74,5 +74,5 @@ sudo flatpak install firefox
 
 ![img-description](https://hexus.net/media/uploaded/2019/8/52fbc0ff-52c8-4237-b546-4af68a54ece3.jpg)
 
-with the image above simply linking to an indexed image on the internet. This helps keep the site light weight and somple to use
+with the image above simply linking to an indexed image on the internet. This helps keep the site light weight and simple to use
  

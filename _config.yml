@@ -20,13 +20,13 @@ timezone: Australia/Sydney
 
 title: HomeLab Blog # the main title
 
-tagline: Yahya K # it will display as the sub-title
+tagline: This is a homeLab/ or General Knowledge Journal # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is a blog site made for documenting all of my homeLab projects and is made with Jekyll (a static site generator), and will have multiple hosting methods to provide high availability.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://completeBeta.github.io"
 
 github:
   username: completeBeta # change to your github username
@@ -34,18 +34,18 @@ github:
 twitter:
   username:  # change to your twitter username
 
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yahya K
-  email: -- # change to your email address
+  name: completeBeta
+  email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # https://twitter.com/username # change to your twitter homepage
     - https://github.com/completeBeta # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yahya-kataa-b34277216
 
 google_site_verification: # fill in to your verification string
 
