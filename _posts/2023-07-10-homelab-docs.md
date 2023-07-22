@@ -74,5 +74,5 @@ sudo flatpak install firefox
 
 ![img-description](https://hexus.net/media/uploaded/2019/8/52fbc0ff-52c8-4237-b546-4af68a54ece3.jpg)
 
-with the image above simply linking to an indexed image on the internet. This helps keep the site light weight and simple to use
+with the image above simply linking to an indexed image on the internet. ***This will only be used for this post and all other images should be stored in their own folder to ensure that images do not go missing***
  
