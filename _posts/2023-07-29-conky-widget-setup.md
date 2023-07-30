@@ -1,9 +1,12 @@
 ---
 title: Conky - Desktop System Monitor
-date: 2023-07-20 12:00:00 -500
+date: 2023-07-29 12:00:00 -500
 categories: [Workflow,linux]
 tags: [conky, autostart] # tag names MUST always be lowercase! 
-
+image:
+  path: https://images.pling.com/img/00/00/66/56/37/1881574/dziban1.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: This is an example Conky Theme
 ---
 # What is Conky?
 Conky is an open-source system monitor for Linux, designed to display a variety of system-related information directly on the desktop. It presents this data in the form of customizable widgets, which can be positioned anywhere on the screen, allowing users to have a quick glance at essential information without having to open additional applications.
