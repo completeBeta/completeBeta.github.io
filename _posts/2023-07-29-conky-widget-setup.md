@@ -1,11 +1,10 @@
 ---
 title: Conky - Desktop System Monitor
 date: 2023-07-29 12:00:00 -500
-categories: [Workflow,linux]
-tags: [conky, autostart] # tag names MUST always be lowercase! 
+categories: [Workflow,Conky]
+tags: [linux, autostart] # tag names MUST always be lowercase! 
 image:
   path: https://images.pling.com/img/00/00/66/56/37/1881574/dziban1.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: This is an example Conky Theme
 ---
 # What is Conky?
@@ -46,7 +45,7 @@ Most themes can be found from [gnome-look.org](https://www.gnome-look.org/p/1881
 clicking the link will lead you to an example theme.
 
 This theme can then be downloaded and extracted to a folder. Before moving to theme customisation however; we must first make sure that cronky is installed by following the bash script below.
-
+### Bash Scripts
 ```bash
 sudo apt-get install conky-all -y
 ```
@@ -58,7 +57,7 @@ This can be achieved by using a file browser or through the terminal like such:
 mv CONKY_FILE_NAME/ ~/.conky
 ```
 *If .conky is not present then make that folder in the home directory*
-
+### Auto Start
 After those steps are completed then an auto start task must now be applied. This is desktop environment dependent. The most recommended method is .desktop application files to be placed in ***home/.config/autostart***. This can also be done with gnome using the TWEAKS app under startup applications; then selecting conky. This is just an easier way of creating a .desktop file under that same previously listed directory.
 
 
